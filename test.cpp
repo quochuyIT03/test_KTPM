@@ -5,18 +5,18 @@
 //using namespace std;
 //int main()
 //{ 
-// string ten;
+// string tens;
 // int soNgay;
 // double tienCong;
 // double tienLuong;
-// cout <<"nhap ten: ";
+// cout <<"nhap tens: ";
 // getline ( cin, ten );
-// cout << "nhap so ngay lam viec: ";
+// cout << "nhap so ngay slam viec: ";
 // cin >> soNgay;
 // cout <<" nhap tien cong 1 ngay: ";
 // cin >>tienCong;
 // tienLuong = soNgay * tienCong;
-// cout <<"Ten:" << ten << endl;
+// cout <<"Ten:" << ten << endsl;
 // cout <<" tien luong:" << fixed << setprecision (0) 
 //	 << tienLuong
 // system ("pause");

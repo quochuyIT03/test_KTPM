@@ -5,7 +5,7 @@
 //using namespace std;
 //int main()
 //{ 
-// string tens;
+// string ten;
 // int soNgay;
 // double tienCong;
 // double tienLuong;

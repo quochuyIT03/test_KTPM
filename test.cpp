@@ -11,7 +11,7 @@
 // double tienLuong;
 // cout <<"nhap tens: ";
 // getline ( cin, ten );
-// cout << "nhap so ngay slam viec: ";
+// cout << "Nhap so ngay tien luong: ";
 // cin >> soNgay;
 // cout <<" nhap tien cong 1 ngay: ";
 // cin >>tienCong;

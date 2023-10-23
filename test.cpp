@@ -6,7 +6,7 @@
 using namespace std;
 int main()
 { 
- string tens;
+ int ngay;
  int soNgayCOng; 
  double tienCong;
  double tienLuong;

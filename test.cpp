@@ -5,7 +5,7 @@
 //using namespace std;
 //int main()
 //{ 
-// string ten;
+// string tens;
 // int soNgay;
 // double tienCong;
 // double tienLuong;
@@ -17,7 +17,7 @@
 // cin >>tienCong;
 // tienLuong = soNgay * tienCong;
 // cout <<"Ten:" << ten << endsl;
-// cout <<" tien luong:" << fixed << setprecision (0) 
+// cout <<" tien luong 123:" << fixed << setprecision (0) 
 //	 << tienLuong
 // system ("pause");
 // return 0;

@@ -6,12 +6,13 @@
 using namespace std;
 int main()
 { 
- string tens;
- int soNgayCOng; 
+ string Ngay;
+ string songay;
  double tienCong;
  double tienLuong;
  cout <<"nhap ten: ";
  getline ( cin, ten );
+cout <<"----------------"; 
  cout << "nhap so ngay lam viec: ";
  cin >> soBuoi;
  cout <<"Nhap----------------"; 

@@ -37,7 +37,11 @@ int main()
 // double tienLuong;
 // cout <<"nhap tens: ";
 // getline ( cin, ten );
+<<<<<<< HEAD
 // cout << "nhap so ngay lam viec: ";
+=======
+// cout << "Nhap so ngay tien luong: ";
+>>>>>>> ffbbdf9ae892e71a59b7a2d9c8b79486af070d3d
 // cin >> soNgay;
 // cout <<" 371 nguyễn kiệm: ";
 // cin >>tienCong;
@@ -48,4 +52,7 @@ int main()
 // system ("pause");
 // return 0;
 //}
+<<<<<<< HEAD
 >>>>>>> ab0402b6e076b7ff4248e55cf51ab2d9c5d09645
+=======
+>>>>>>> ffbbdf9ae892e71a59b7a2d9c8b79486af070d3d

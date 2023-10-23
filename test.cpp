@@ -11,9 +11,9 @@
 // double tienLuong;
 // cout <<"nhap tens: ";
 // getline ( cin, ten );
-// cout << "nhap so ngay slam viec: ";
+// cout << "nhap so ngay lam viec: ";
 // cin >> soNgay;
-// cout <<" nhap tien cong 1 ngay: ";
+// cout <<" 371 nguyễn kiệm: ";
 // cin >>tienCong;
 // tienLuong = soNgay * tienCong;
 // cout <<"Ten:" << ten << endsl;
